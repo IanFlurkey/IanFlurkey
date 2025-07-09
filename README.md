@@ -10,10 +10,18 @@
 
 ---
 
+## 🎧 Listening To
+
+[![Spotify](https://img.shields.io/badge/Now_Playing-Electric%20Feel%20by%20MGMT-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/2Bxt2qamL6iu0XN0Td484J)
+
+
+
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/IanFlurkey)
 [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ianflurkey)
+
+
 
 ## 🛠️ Tech Stack
 
@@ -25,6 +33,8 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-8B0000?style=for-the-badge&logo=alchemy&logoColor=white)
+
+
 
 ## 📚📖What I'm Reading 📖📚
 
