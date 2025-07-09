@@ -12,7 +12,10 @@
 
 ## 🎧 Listening To
 
-![Virtual Insanity by Jamiroquai](https://upload.wikimedia.org/wikipedia/en/7/7d/Virtualinsanity.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/en/7/7d/Virtualinsanity.jpg" alt="Virtual Insanity by Jamiroquai" width="100"/>
+
+*Virtual Insanity*  
+**Jamiroquai**  
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/2Bxt2qamL6iu0XN0Td484J)
 
 
