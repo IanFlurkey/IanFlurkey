@@ -1,7 +1,6 @@
 ### Hi there! I'm Ian Flurkey 👋
 
 ## I'm a Full-Stack Developer, Tabletop RPG Designer, Firefighting Robot Creator, and lover of Travelling!
-
 ---
 
 - 🧠 I'm currently honing and expanding my skills in backend architecture and frontend optimization.
@@ -9,9 +8,9 @@
 - ♟️ Fun Facts: I was the president of my college's firefighting robot club, I run a Dungeons & Dragons game, and love to hike.
 
 ---
-
 ### 🌐 My Digital Business Card  
-[ianflurkey.onrender.com](https://ianflurkey.onrender.com)
+
+[![Visit My Card](https://img.shields.io/badge/Visit%20My%20Card-On%20Render-blueviolet?style=for-the-badge)](https://ianflurkey.onrender.com)
 
 ## 🎧 Listening To
 
