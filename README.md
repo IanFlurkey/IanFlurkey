@@ -1,4 +1,4 @@
-# Hi there! I'm Ian Flurkey 👋
+### Hi there! I'm Ian Flurkey 👋
 
 ## I'm a Full-Stack Developer, Tabletop RPG Designer, Firefighting Robot Creator, and lover of Travelling!
 
@@ -12,4 +12,9 @@
 
 # 📚📖What I'm Reading 📖📚
 
-[![Reading](https://img.shields.io/badge/Reading-Atomic%20Habits-blue?style=flat-square&logo=bookstack&logoColor=white)](https://jamesclear.com/atomic-habits)
+[<div align="center">
+  <a href="https://jamesclear.com/atomic-habits" target="_blank">
+    <img src="https://images-na.ssl-images-amazon.com/images/I/91bYsX41DVL.jpg" alt="Atomic Habits book cover" width="150"/>
+  </a>
+</div>]
+
