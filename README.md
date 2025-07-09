@@ -10,7 +10,7 @@
 
 ---
 
-# 📚📖What I'm Reading 📖📚
+## 📚📖What I'm Reading 📖📚
 
-[![Atomic Habits](https://images-na.ssl-images-amazon.com/images/I/91bYsX41DVL.jpg)](https://jamesclear.com/atomic-habits)
+<a href="https://jamesclear.com/atomic-habits"><img src="https://images-na.ssl-images-amazon.com/images/I/91bYsX41DVL.jpg" alt="Atomic Habits" width="75" align="left" /></a>
 
