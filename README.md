@@ -6,7 +6,7 @@
 
 - 🧠 I'm currently honing and expanding my skills in backend architecture and frontend optimization.
 - 🥅 Goals: I want to build software that brings people together.
-- Fun Facts: I was the president of my college's firefighting robot club, I run a Dungeons & Dragons game, and love to hike.
+- ♟️ Fun Facts: I was the president of my college's firefighting robot club, I run a Dungeons & Dragons game, and love to hike.
 
 ---
 
