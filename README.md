@@ -12,7 +12,8 @@
 
 ## 🎧 Listening To
 
-[![Spotify](https://img.shields.io/badge/Now_Playing-Electric%20Feel%20by%20MGMT-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/2Bxt2qamL6iu0XN0Td484J)
+![Virtual Insanity by Jamiroquai](https://upload.wikimedia.org/wikipedia/en/7/7d/Virtualinsanity.jpg)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/2Bxt2qamL6iu0XN0Td484J)
 
 
 
